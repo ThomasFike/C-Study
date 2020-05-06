@@ -34,6 +34,7 @@ int main() {
     cout << ceil(4.1) << endl; //Always round up
     cout << floor(4.8) << endl; //Always round down
     cout << fmax(3, 10) << endl; //Returns the larger of the two
+    //also fmin for min
     
 
 }
